@@ -1,0 +1,9 @@
+https://dev.windows.com/en-us/getstarted/whats-new-windows-10
+
+https://msdn.microsoft.com/en-us/library/windows/apps/xaml/windows.ui.xaml.controls.calendarview.aspx
+
+https://msdn.microsoft.com/en-us/library/windows/apps/xaml/hh465351.aspx
+
+https://msdn.microsoft.com/library/windows/apps/xaml/windows.ui.xaml.controls.splitview.aspx
+
+https://dev.windows.com/en-us/getstarted/whats-new-windows-10
